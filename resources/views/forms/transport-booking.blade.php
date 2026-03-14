@@ -1,5 +1,11 @@
 <div class="max-w-md mx-auto bg-white shadow-xl rounded-2xl p-6 border border-green-100">
+<a href="{{ url()->previous() }}"
+class="inline-flex items-center gap-2 mb-6 text-sm font-semibold text-[#00A63E] hover:text-[#F97316] transition">
 
+<i class="fa-solid fa-arrow-left"></i>
+Back to Rental
+
+</a>
 <h3 class="text-2xl font-bold text-[#00A63E] mb-4 flex items-center gap-2">
 <i class="fa-solid fa-car text-[#00A63E]"></i> Book Transport
 </h3>

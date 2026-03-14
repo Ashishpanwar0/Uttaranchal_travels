@@ -25,6 +25,22 @@ Route::get('/blog', function () {
     return view('blog');
 });
 
+Route::get('/booking', function () {
+    return view('booking');
+});
+
+Route::get('/privacy-policy', function () {
+    return view('privacy-policy');
+});
+
+Route::get('/terms-conditions', function () {
+    return view('terms-conditions');
+});
+
+Route::get('/refund-policy', function () {
+    return view('refund-policy');
+});
+
 use App\Http\Controllers\TripController;
 
 Route::post('/trip-enquiry', [TripController::class, 'send'])->name('trip.enquiry');
