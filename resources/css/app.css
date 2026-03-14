@@ -1,0 +1,52 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+
+body{
+font-family: 'Poppins', sans-serif;
+}
+
+.nav-font{
+font-family: 'Montserrat', sans-serif;
+}
+
+.heading-font{
+font-family: 'Montserrat', sans-serif;
+}
+
+.script-font{
+font-family: 'Pacifico', cursive;
+}
+
+
+/* Activity Style */
+.activitySwiper{
+padding-bottom:40px;
+}
+
+.activitySwiper .swiper-pagination{
+bottom:0 !important;
+}
+
+.activitySwiper .swiper-pagination-bullet{
+background:#00A63E;
+opacity:.4;
+}
+
+.activitySwiper .swiper-pagination-bullet-active{
+background:#F97316;
+opacity:1;
+}
+
+
+/* Google Review  */
+
