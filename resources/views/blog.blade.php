@@ -1,6 +1,6 @@
 <x-navbar />
 {{-- HERO --}}
-<section class="relative bg-gray-900 overflow-hidden">
+<section class="relative bg-gray-900 overflow-hidden pt-12">
     <div class="absolute inset-0 bg-gradient-to from-black via-gray-900 to-[#00A63E]/40"></div>
     <div class="relative max-w-7xl mx-auto px-6 py-20 text-center">
         <span class="inline-block bg-[#F97316]/20 text-[#F97316] text-sm font-semibold px-4 py-1.5 rounded-full mb-5 border border-[#F97316]/30">

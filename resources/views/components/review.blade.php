@@ -35,7 +35,7 @@
 
                     @php
                     $reviews = [
-                        ['title' => 'Amazing Kedarnath Trip', 'text' => 'Our Kedarnath journey was very smooth and comfortable. Taxi service and hotel booking were perfectly managed. Highly recommended travel agency for Char Dham Yatra.', 'name' => 'Rahul Sharma', 'city' => 'Delhi, India'],
+                        ['title' => 'Amazing Kedarnath Trip', 'text' => 'Our Kedarnath journey was very smooth and comfortable.', 'name' => 'Rahul Sharma', 'city' => 'Delhi, India'],
                         ['title' => 'Best Char Dham Experience', 'text' => 'Very professional service for Char Dham Yatra. Driver was experienced and journey was safe. We will definitely travel again with Uttaranchal Travels.', 'name' => 'Priya Verma', 'city' => 'Lucknow, India'],
                         ['title' => 'Excellent Travel Support', 'text' => 'Booking process was easy and support team helped us during the entire trip. Hotels and vehicle were great. Best travel agency in Uttarakhand.', 'name' => 'Amit Joshi', 'city' => 'Dehradun, India'],
                     ];

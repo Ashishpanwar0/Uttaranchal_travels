@@ -1,9 +1,9 @@
 <x-navbar />
 
-<section class="relative overflow-hidden">
+<section class="relative overflow-hidden pt-12">
 
 <!-- Background Image -->
-<div class="absolute inset-0 bg-cover bg-center bg-no-repeat"
+<div class="absolute inset-0 bg-cover md:bg-center bg-top bg-no-repeat"
 style="background-image: url('{{ asset('My-Images/Contact-hero.webp') }}');">
 </div>
 
@@ -17,7 +17,7 @@ style="background-image: url('{{ asset('My-Images/Contact-hero.webp') }}');">
 </span>
 
 <h1 class="text-4xl md:text-5xl font-extrabold text-white leading-tight mb-4">
-Uttarakhand<span class="text-[#F97316]">Tour Packages</span>
+Uttarakhand<span class="text-[#F97316]"> Tour Packages</span>
 </h1>
 
 <p class="text-gray-300 max-w-lg mx-auto text-base">
@@ -28,7 +28,7 @@ Discover the best Char Dham Yatra and Uttarakhand tour packages for a comfortabl
 
 </section>
 
-<div class="max-w-7xl mx-auto px-4 py-10">
+<div class="max-w-7xl mx-auto lg:px-4 py-10 ">
 @include('tours.packages', ['tours' => $tours])
 </div>
 

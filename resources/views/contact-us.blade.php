@@ -1,7 +1,7 @@
 <x-navbar />
 
 {{-- HERO --}}
-<section class="relative overflow-hidden">
+<section class="relative overflow-hidden pt-12">
 
 <!-- Background Image -->
 <div class="absolute inset-0 bg-cover bg-center bg-no-repeat"
@@ -45,9 +45,9 @@ Char Dham Yatra, vehicle rental, hotel booking — kisi bhi sawaal ke liye hum a
 <div class="space-y-6">
 
 @foreach([
-['fa-solid fa-phone','Call Us','+91 95480 39959','tel:+919548039959'],
-['fa-brands fa-whatsapp','WhatsApp','+91 95480 39959','https://wa.me/919548039959'],
-['fa-solid fa-envelope','Email Us','info@uttaranchaltravels.com','mailto:info@uttaranchaltravels.com'],
+['fa-solid fa-phone','Call Us','+91 7505748554','tel:+917505748554'],
+['fa-brands fa-whatsapp','WhatsApp','+91 9456132650','https://wa.me/919456132650'],
+['fa-solid fa-envelope','Email Us','Uttaranchaltravels.in@gmail.com','mailto:uttaranchaltravels.in@gmail.com'],
 ['fa-solid fa-location-dot','Our Office','Rishikesh, Uttarakhand, India','#'],
 ] as $c)
 

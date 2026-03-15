@@ -1,4 +1,4 @@
-<section class="relative flex items-center min-h-[80vh]">
+<section class="relative flex items-center min-h-[80vh] pt-12">
 
 <!-- Background Image -->
 <div class="absolute inset-0">
@@ -18,7 +18,7 @@ class="w-full h-full object-cover">
 <div class="text-white text-center lg:text-left">
 
 <h1 class="text-3xl md:text-5xl font-bold mb-6 leading-tight heading-font">
-Explore Uttarakhand <br>
+<span class="text-[#F97316]">Explore</span> Uttarakhand <br>
 Travel, Taxi & Tour Services
 </h1>
 
@@ -28,22 +28,19 @@ trekking trips, hill station tours and adventure travel packages.
 Plan your perfect Himalayan journey with Uttaranchal Travels.
 </p>
 
-
-<!-- Small Features -->
-
 <div class="flex flex-wrap justify-center lg:justify-start gap-6 mb-8 text-sm content-font">
 
-<span class="flex items-center gap-2">
+<span class="inline-block bg-[#F97316]/20 text-[#F97316] text-sm font-semibold px-4 py-1.5 rounded-full border border-[#F97316]/30">
 <i class="fa-solid fa-taxi text-green-400"></i>
 Taxi Service
 </span>
 
-<span class="flex items-center gap-2">
+<span class="inline-block bg-[#F97316]/20 text-[#F97316] text-sm font-semibold px-4 py-1.5 rounded-full border border-[#F97316]/30">
 <i class="fa-solid fa-map-location-dot text-green-400"></i>
 Tour Packages
 </span>
 
-<span class="flex items-center gap-2">
+<span class="inline-block bg-[#F97316]/20 text-[#F97316] text-sm font-semibold px-4 py-1.5 rounded-full border border-[#F97316]/30">
 <i class="fa-solid fa-person-hiking text-green-400"></i>
 Trekking
 </span>
@@ -51,11 +48,9 @@ Trekking
 </div>
 
 
-<!-- Buttons -->
-
 <div class="flex flex-col sm:flex-row justify-center lg:justify-start gap-4">
 
-<a href="/tours"
+<a href="/packages"
 class="bg-orange-500 hover:bg-[#00A63E] px-6 py-3 rounded-lg font-semibold transition flex items-center justify-center gap-2">
 
 <i class="fa-solid fa-earth-asia"></i>
@@ -64,7 +59,7 @@ Explore Tours
 </a>
 
 
-<a href="/transport"
+<a href="/rental"
 class="border border-white px-6 py-3 rounded-lg hover:bg-white hover:text-black transition flex items-center justify-center gap-2">
 
 <i class="fa-solid fa-car"></i>
@@ -100,4 +95,4 @@ Quick Enquiry
 
 </div>
 
-</section>
+</section>  

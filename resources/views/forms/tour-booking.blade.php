@@ -61,7 +61,7 @@ OR
 </div>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/919548039959"
+<a href="https://wa.me/919456132650"
 class="flex items-center justify-center gap-2 w-full bg-green-500 hover:bg-green-600 text-white py-2.5 rounded-lg font-semibold transition">
 
 <i class="fa-brands fa-whatsapp text-lg"></i>

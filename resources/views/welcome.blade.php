@@ -195,7 +195,7 @@ Quick Contact
 
 <!-- Call -->
 
-<a href="tel:+919548039959"
+<a href="tel:+91 7505748554"
 class="flex items-center gap-3 bg-[#F97316] hover:bg-[#00A63E] px-5 py-3 rounded-xl transition">
 
 <i class="fa-solid fa-phone text-white"></i>
@@ -259,4 +259,195 @@ Enjoy spiritual journeys and thrilling experiences surrounded by beautiful mount
 <x-review/>
 
 
+<!-- FAQ Section Start -->
+<section class="bg-[linear-gradient(135deg,#f0fdf4_0%,#fff7ed_100%)] py-16">
+
+<div class="max-w-4xl mx-auto px-4">
+
+<div class="text-center mb-12">
+
+<span class="script-font text-[#00A63E]">FAQs</span>
+
+<h2 class="text-3xl font-bold mt-2">
+Frequently Asked Questions
+</h2>
+
+<p class="text-gray-600 mt-2">
+Find answers to common questions about Char Dham Yatra, tour packages and travel services in Uttarakhand.
+</p>
+
+</div>
+
+
+<div class="space-y-4">
+
+
+<!-- FAQ 1 -->
+
+<details class="group bg-white rounded-2xl shadow-md p-6 cursor-pointer hover:shadow-xl transition">
+
+<summary class="flex justify-between items-center font-semibold text-lg">
+
+<div class="flex items-center gap-3">
+
+<div class="w-9 h-9 flex items-center justify-center rounded-full bg-green-100">
+<i class="fa-solid fa-circle-question text-[#00A63E]"></i>
+</div>
+
+When is the best time for Char Dham Yatra?
+
+</div>
+
+<i class="fa-solid fa-chevron-down text-[#F97316] transition group-open:rotate-180"></i>
+
+</summary>
+
+<p class="text-gray-600 mt-4 text-sm pl-12">
+The best time for Char Dham Yatra is from May to June and September to October when the weather is pleasant and roads remain open for travel.
+</p>
+
+</details>
+
+
+<!-- FAQ 2 -->
+
+<details class="group bg-white rounded-2xl shadow-md p-6 cursor-pointer hover:shadow-xl transition">
+
+<summary class="flex justify-between items-center font-semibold text-lg">
+
+<div class="flex items-center gap-3">
+
+<div class="w-9 h-9 flex items-center justify-center rounded-full bg-green-100">
+<i class="fa-solid fa-car text-[#00A63E]"></i>
+</div>
+
+Do you provide taxi and vehicle rental services?
+
+</div>
+
+<i class="fa-solid fa-chevron-down text-[#F97316] transition group-open:rotate-180"></i>
+
+</summary>
+
+<p class="text-gray-600 mt-4 text-sm pl-12">
+Yes, we provide taxi, tempo traveller and bus rental services for Char Dham Yatra, Kedarnath trip and other Uttarakhand tours.
+</p>
+
+</details>
+
+
+<!-- FAQ 3 -->
+
+<details class="group bg-white rounded-2xl shadow-md p-6 cursor-pointer hover:shadow-xl transition">
+
+<summary class="flex justify-between items-center font-semibold text-lg">
+
+<div class="flex items-center gap-3">
+
+<div class="w-9 h-9 flex items-center justify-center rounded-full bg-green-100">
+<i class="fa-solid fa-hotel text-[#00A63E]"></i>
+</div>
+
+Are hotels included in tour packages?
+
+</div>
+
+<i class="fa-solid fa-chevron-down text-[#F97316] transition group-open:rotate-180"></i>
+
+</summary>
+
+<p class="text-gray-600 mt-4 text-sm pl-12">
+Most of our Char Dham and Uttarakhand tour packages include hotel accommodation, meals and comfortable transport services.
+</p>
+
+</details>
+
+
+<!-- FAQ 4 -->
+
+<details class="group bg-white rounded-2xl shadow-md p-6 cursor-pointer hover:shadow-xl transition">
+
+<summary class="flex justify-between items-center font-semibold text-lg">
+
+<div class="flex items-center gap-3">
+
+<div class="w-9 h-9 flex items-center justify-center rounded-full bg-green-100">
+<i class="fa-solid fa-route text-[#00A63E]"></i>
+</div>
+
+How many days are required for Char Dham Yatra?
+
+</div>
+
+<i class="fa-solid fa-chevron-down text-[#F97316] transition group-open:rotate-180"></i>
+
+</summary>
+
+<p class="text-gray-600 mt-4 text-sm pl-12">
+Normally Char Dham Yatra takes around 10–12 days depending on your travel plan, route and sightseeing activities.
+</p>
+
+</details>
+
+
+<!-- FAQ 5 -->
+
+<details class="group bg-white rounded-2xl shadow-md p-6 cursor-pointer hover:shadow-xl transition">
+
+<summary class="flex justify-between items-center font-semibold text-lg">
+
+<div class="flex items-center gap-3">
+
+<div class="w-9 h-9 flex items-center justify-center rounded-full bg-green-100">
+<i class="fa-solid fa-calendar-check text-[#00A63E]"></i>
+</div>
+
+How can I book a tour package?
+
+</div>
+
+<i class="fa-solid fa-chevron-down text-[#F97316] transition group-open:rotate-180"></i>
+
+</summary>
+
+<p class="text-gray-600 mt-4 text-sm pl-12">
+You can book your Char Dham or Uttarakhand tour package by calling us, contacting on WhatsApp or filling the booking form on our website.
+</p>
+
+</details>
+
+
+<!-- FAQ 6 -->
+
+<details class="group bg-white rounded-2xl shadow-md p-6 cursor-pointer hover:shadow-xl transition">
+
+<summary class="flex justify-between items-center font-semibold text-lg">
+
+<div class="flex items-center gap-3">
+
+<div class="w-9 h-9 flex items-center justify-center rounded-full bg-green-100">
+<i class="fa-solid fa-map-location-dot text-[#00A63E]"></i>
+</div>
+
+Which places are included in Uttarakhand tours?
+
+</div>
+
+<i class="fa-solid fa-chevron-down text-[#F97316] transition group-open:rotate-180"></i>
+
+</summary>
+
+<p class="text-gray-600 mt-4 text-sm pl-12">
+Our Uttarakhand tour packages include popular destinations like Kedarnath, Badrinath, Gangotri, Yamunotri, Rishikesh, Mussoorie and many more.
+</p>
+
+</details>
+
+
+</div>
+
+</div>
+
+</section>
+<!-- FAQ Section End -->
 <x-footer />

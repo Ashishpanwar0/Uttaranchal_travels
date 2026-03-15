@@ -1,7 +1,7 @@
 <x-navbar />
 
 {{-- HERO --}}
-<section class="relative overflow-hidden">
+<section class="relative overflow-hidden pt-12">
 
 <!-- Background Image -->
 <div class="absolute inset-0 bg-cover bg-center bg-no-repeat"

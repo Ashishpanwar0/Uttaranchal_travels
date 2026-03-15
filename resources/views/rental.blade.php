@@ -1,7 +1,7 @@
 <x-navbar />
 
 {{-- HERO --}}
-<section class="relative overflow-hidden bg-gray-900 flex items-center">
+<section class="relative overflow-hidden bg-gray-900 flex items-center pt-12">
 
 <!-- Background Image -->
 <div class="absolute inset-0 bg-cover md:bg-cover bg-center md:bg-center bg-no-repeat"
@@ -140,7 +140,7 @@ $vehicles = [
 <div class="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 overflow-hidden group border border-gray-100">
 
 {{-- Top --}}
-<div class="bg-gradient-to-br from-gray-900 to-gray-800 p-8 text-center relative">
+<div class="bg-[black] p-8 text-center relative">
 
 <span class="absolute top-4 right-4 {{ $v['badge_color'] }} text-white text-xs font-bold px-3 py-1 rounded-full">
 {{ $v['badge'] }}
@@ -265,7 +265,7 @@ Why Book With <span class="text-[#00A63E]">Uttaranchal Travels</span>
 
 <p class="text-sm mb-2">Need instant booking?</p>
 
-<a href="https://wa.me/919548039959"
+<a href="https://wa.me/919456132650"
 class="inline-flex items-center gap-2 font-semibold">
 
 <i class="fa-brands fa-whatsapp"></i>

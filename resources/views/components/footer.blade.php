@@ -16,15 +16,15 @@
 Uttaranchal Travels offers trusted travel and vehicle rental services across Uttarakhand to help you explore the region comfortably.
 </p>
 <div class="space-x-3">
-    <a href="#" class="hover:scale-110 transition">
+    <a href="https://www.facebook.com/UttaranchalTravelsOfficial" class="hover:scale-110 transition">
 <i class="fa-brands fa-facebook text-blue-600 text-lg"></i>
 </a>
 
-<a href="#" class="hover:scale-110 transition">
+<a href="https://www.instagram.com/uttaranchaltravels.in/" class="hover:scale-110 transition">
 <i class="fa-brands fa-instagram text-pink-500 text-lg"></i>
 </a>
 
-<a href="#" class="hover:scale-110 transition">
+<a href="https://x.com/UUttaranchaTrip" class="hover:scale-110 transition">
 <i class="fa-brands fa-x-twitter text-white text-lg"></i>
 </a>
 
@@ -63,7 +63,7 @@ Quick Links
 </li>
 
 <li>
-<a href="/contact" class="hover:text-orange-400 transition">Contact</a>
+<a href="/contact-us" class="hover:text-orange-400 transition">Contact</a>
 </li>
 
 </ul>
@@ -98,7 +98,7 @@ Popular Packages
 </li>
 
 <li>
-<a href="#" class="hover:text-orange-400 transition">Uttarakhand Tour</a>
+<a href="/packages" class="hover:text-orange-400 transition">Uttarakhand Activity </a>
 </li>
 
 </ul>
@@ -123,13 +123,7 @@ Privacy Policy
 </li>
 
 <li>
-<a href="/return-policy" class="hover:text-orange-400 transition">
-Return Policy
-</a>
-</li>
-
-<li>
-<a href="/terms" class="hover:text-orange-400 transition">
+<a href="/terms-conditions" class="hover:text-orange-400 transition">
 Terms & Conditions
 </a>
 </li>
@@ -160,7 +154,7 @@ Contact Us
 <i class="fa-solid fa-envelope text-green-500"></i>
 
 <a href="mailto:ashupanwar5684@gmail.com" class="hover:text-orange-400">
-ashupanwar5684@gmail.com
+Uttaranchaltravels.in@gmail.com
 </a>
 
 </li>
@@ -169,8 +163,8 @@ ashupanwar5684@gmail.com
 
 <i class="fa-solid fa-phone text-green-500"></i>
 
-<a href="tel:9548039959" class="hover:text-orange-400">
-9548039959
+<a href="tel:7505748554" class="hover:text-orange-400">
+7505748554
 </a>
 
 </li>
@@ -179,8 +173,8 @@ ashupanwar5684@gmail.com
 
 <i class="fa-solid fa-phone-volume text-green-500"></i>
 
-<a href="tel:4567346745" class="hover:text-orange-400">
-4567346745
+<a href="tel:9548039959 " class="hover:text-orange-400">
+9548039959
 </a>
 
 </li>
@@ -216,15 +210,15 @@ Developed by Ashish Panwar
 
 <div class="flex gap-4 mt-3 md:mt-0">
 
-<a href="#" class="hover:scale-110 transition">
+<a href="https://www.facebook.com/UttaranchalTravelsOfficial" class="hover:scale-110 transition">
 <i class="fa-brands fa-facebook text-blue-600 text-lg"></i>
 </a>
 
-<a href="#" class="hover:scale-110 transition">
+<a href="https://www.instagram.com/uttaranchaltravels.in/" class="hover:scale-110 transition">
 <i class="fa-brands fa-instagram text-pink-500 text-lg"></i>
 </a>
 
-<a href="#" class="hover:scale-110 transition">
+<a href="https://x.com/UUttaranchaTrip" class="hover:scale-110 transition">
 <i class="fa-brands fa-x-twitter text-white text-lg"></i>
 </a>
 
@@ -257,7 +251,7 @@ class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hove
 
 <div>
 <p class="font-semibold">WhatsApp Chat</p>
-<p class="text-sm text-gray-500">+91 94561 32650</p>
+<p class="text-sm text-gray-500">+91 9456132650</p>
 </div>
 
 </a>
@@ -265,7 +259,7 @@ class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hove
 
 <!-- Call -->
 
-<a href="tel:+919548039959"
+<!-- <a href="tel:+919548039959"
 class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hover:scale-105 transition">
 
 <i class="fa-solid fa-phone text-blue-500 text-xl"></i>
@@ -275,7 +269,7 @@ class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hove
 <p class="text-sm text-gray-500">+91 9548039959</p>
 </div>
 
-</a>
+</a> -->
 
 
 <!-- Call 2 -->
@@ -308,7 +302,7 @@ class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hove
 </a>
 
 
-<a href="mailto:ashupanwar5684@gmail.com"
+<!-- <a href="mailto:ashupanwar5684@gmail.com"
 class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hover:scale-105 transition">
 
 <i class="fa-solid fa-envelope text-red-500 text-xl"></i>
@@ -318,7 +312,7 @@ class="flex items-center gap-3 bg-white shadow-xl rounded-xl px-4 py-3 w-64 hove
 <p class="text-sm text-gray-500">ashupanwar5684@gmail.com</p>
 </div>
 
-</a>
+</a> -->
 
 </div>
 

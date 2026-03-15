@@ -45,7 +45,7 @@ font-family:'Poppins', sans-serif;
 
 <body class="bg-gray-50">
 
-<nav class="bg-white shadow-md">
+<nav class="bg-white shadow-md fixed top-0 left-0 w-full z-50">
 
 <div class="max-w-7xl mx-auto px-4">
 
@@ -57,7 +57,7 @@ font-family:'Poppins', sans-serif;
 
 <a href="/">
 
-<img src="{{ asset('My-Images/Uttaranchal-removebg-preview.png') }}" class="lg:h-40 lg:w-40 lg:mt-6 h-24" alt="logo">
+<img src="{{ asset('My-Images/Uttaranchal-removebg-preview.png') }}" class="lg:h-40 lg:w-40 lg:mt-6 h-28 mt-2" alt="logo">
 
 </a>
 
@@ -152,6 +152,7 @@ Book Now
 </a>
 
 </div>
+
 <script>
 
 const btn = document.getElementById('menu-btn');
